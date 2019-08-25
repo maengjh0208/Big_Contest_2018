@@ -2,7 +2,7 @@
 블레이드 앤 소울 게임 유저의 이탈 시점 예측
 
 ## 1. 모델 개요
-![alt_text](https://github.com/Juhee-Maeng/Big_Contest_2018/blob/master/images/1.%20%EA%B0%9C%EC%9A%94.PNG)
+![alt_text](https://github.com/Juhee-Maeng/Big_Contest_2018/blob/master/images/1.%20%EB%AA%A8%EB%8D%B8%20%EA%B0%9C%EC%9A%94.PNG)
 - 파생 변수 생성 및 데이터 전처리
 - 랜덤 포레스트를 통해, 최적 변수 선별
 - 베이지안 최적화를 통해, 최적 하이퍼 파라미터 선별
